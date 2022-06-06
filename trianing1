@@ -1,2 +1,18 @@
 Got a question on the topic? Please share it in the comment section below and our experts will answer it for you. For Edureka DevOps Training and Certification curriculum, Visit our Website: http://bit.ly/2O59dHy
  Use code "YOUTUBE20" to get Flat 20% off on this training.
+Moderation
+Every version of each package undergoes a rigorous moderation process before it goes live that typically includes:
+
+Security, consistency, and quality checking
+Installation testing
+Virus checking through VirusTotal
+Human moderators who give final review and sign off
+More detail at Security and Moderation.
+
+Organizational Use
+If you are an organization using Chocolatey, we want your experience to be fully reliable. Due to the nature of this publicly offered repository, reliability cannot be guaranteed. Packages offered here are subject to distribution rights, which means they may need to reach out further to the internet to the official locations to download files at runtime.
+
+Fortunately, distribution rights do not apply for internal use. With any edition of Chocolatey (including the free open source edition), you can host your own packages and cache or internalize existing community packages.
+
+Disclaimer
+Your use of the packages on this site means you understand they are not supported or guaranteed in any way.
