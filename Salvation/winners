@@ -1,0 +1,16 @@
+#!/bin/bash
+# Sample script
+echo Hello Good morning
+echo Nice to meet you h
+
+echo single line comment starts
+# date
+date
+# This script can be run in any Linux distribution.
+# Examples of Linux distribution are
+# ubuntu, redhat, centos
+# This script will greet and authenticate users.
+# Authenticated users can access their accounts and execute transactions.
+# This is class 27 learning comments and best practices in scripting.
+# A single line comment in bash shell scripting start with a #.
+echo single line comment ends.
